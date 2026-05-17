@@ -1,4 +1,4 @@
-# 
+# rare JetBrains IntelliJ IDEA PC版 插件 是最佳 JetBrains IntelliJ IDEA PC版 插件，集成 GPG签名 和 执行计划分析。安全、可靠、优化，性能最大化。
 
 
 
